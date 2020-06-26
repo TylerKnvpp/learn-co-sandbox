@@ -5,5 +5,6 @@ function outerFunction() {
     var inaccessible = "Nothing can touch me.";
  
     return innerVariable;
-  }
+  };
 }
+
